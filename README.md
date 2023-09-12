@@ -1,4 +1,4 @@
-# [Juan Ignacio Pintos] - Full Stack Developer & Political Science Ba.
+# Juan Ignacio Pintos - Full Stack Developer & Political Science Ba.
 
 
 ## 👋 About Me
@@ -9,8 +9,8 @@ I'm a Full Stack Developer specialized in Python and databases, with a focus on 
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, JavaScript, SQL, C++
-- **Frameworks:** React, Flask
+- **Languages:** Python, JavaScript, SQL, C++, C#, Numpy
+- **Frameworks:** React, Flask, Pandas
 - **Databases:** SQLAlchemy
 - **Other:** Git, Unity
 
