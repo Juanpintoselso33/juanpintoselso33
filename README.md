@@ -46,4 +46,5 @@ I'm a Full Stack Developer specialized in Python and databases, with a focus on 
 
 ## ⚡ Fun Fact
 
-I love playing the guitar and discussing politics and history. I'm a big fan of Club Nacional de Football, enjoy grand strategy games, have a deep love for my country, and I'm a Pink Floyd enthusiast.
+I enjoy playing the guitar and delving into discussions about politics and history. A steadfast supporter of Club Nacional de Football, I'm Uruguayan but prefer to call myself "Oriental." Olimareño by birth and Fernandino by adoption, my hobbies include grand strategy games, a deep love for my country, and an appreciation for the music of Pink Floyd.
+
