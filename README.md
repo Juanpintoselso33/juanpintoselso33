@@ -10,8 +10,8 @@ I'm a Full Stack Developer specialized in Python and databases, with a focus on 
 ## 🛠️ Technologies & Tools
 
 - **Languages:** Python, JavaScript, SQL, C++, C#, Numpy
-- **Frameworks:** React, Flask, Pandas
-- **Databases:** SQLAlchemy
+- **Frameworks:** React, Flask, Pandas, Node.js, Django
+- **Databases:** SQLAlchemy, PostgresSQL, RESTApi
 - **Other:** Git, Unity
 
 ---
@@ -27,20 +27,22 @@ I'm a Full Stack Developer specialized in Python and databases, with a focus on 
 ### 2048 Game Example for UTEC
 - Created an example of the 2048 game using C++ console.
 
+### 
+- Developed a landing page as a point of contact to learn about and communicate with the political organization Vientos Nuevos. Used TypeScript, React.js, and Tailwind CSS, along with other technologies to facilitate the integration of an Instagram feed and email communication with the organization.
 ---
 
 ## 📚 Education
 
 - **Ba in Political Science, Udelar**
 - **Full Stack Developer Bootcamp, 4Geeks**
-- **Upcoming: Master's in Applied Economics, UBA**
+- **Master's in Applied Economics, UBA**
 
 ---
 
 ## 📬 Contact Me
 
 - **Email:** [juanpintoselso33@gmail.com](mailto:juanpintoselso33@gmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/juan-ignacio-pintos-elso-257990129/](https://www.linkedin.com/in/juan-ignacio-pintos-elso-257990129/)
+- **LinkedIn:** [https://www.linkedin.com/in/juan-ignacio-pintos-elso-257990129/](https://www.linkedin.com/in/juan-ignacio-pintos-elso)
 
 ---
 
