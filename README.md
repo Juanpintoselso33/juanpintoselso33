@@ -18,6 +18,9 @@ I'm a Full Stack Developer specialized in Python and databases, with a focus on 
 
 ## 🎯 Projects & Achievements
 
+### Vientos Nuevos Uy
+- Developed a landing page as a point of contact to learn about and communicate with the political organization Vientos Nuevos. Used TypeScript, React.js, and Tailwind CSS, along with other technologies to facilitate the integration of an Instagram feed and email communication with the organization.
+
 ### Data Analysis in Economic and Social Statistics
 - Utilized Python and SQL to analyze patterns in economic and social statistics.
 
@@ -27,8 +30,6 @@ I'm a Full Stack Developer specialized in Python and databases, with a focus on 
 ### 2048 Game Example for UTEC
 - Created an example of the 2048 game using C++ console.
 
-### 
-- Developed a landing page as a point of contact to learn about and communicate with the political organization Vientos Nuevos. Used TypeScript, React.js, and Tailwind CSS, along with other technologies to facilitate the integration of an Instagram feed and email communication with the organization.
 ---
 
 ## 📚 Education
