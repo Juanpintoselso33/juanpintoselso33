@@ -9,26 +9,23 @@ I'm a Full Stack Developer specialized in Python and databases, with a focus on 
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, JavaScript, SQL, C++, C#, Numpy
-- **Frameworks:** React, Flask, Pandas, Node.js, Django
-- **Databases:** SQLAlchemy, PostgresSQL, RESTApi
-- **Other:** Git, Unity
+- **Languages:** Python, JavaScript, SQL, C++, C#, 
+- **Frameworks:** React, Flask, Pandas, Node.js, Django, Vue.Js, Numpy
+- **Databases:** SQLAlchemy, PostgresSQL, RESTApi,
+- **Other:** Git, Unity, STATA
 
 ---
 
 ## 🎯 Projects & Achievements
 
+### Montevideo Election Map
+- An interactive Vue.js application visualizing the 2024 internal election results across Montevideo, Uruguay. Using official Electoral Court data, it offers a neighborhood-level map of voting patterns. Features include color-coded districts, filtering by political lists, and interactive elements for analyzing local political trends in Uruguay's capital city.
+
 ### Vientos Nuevos Uy
 - Developed a landing page as a point of contact to learn about and communicate with the political organization Vientos Nuevos. Used TypeScript, React.js, and Tailwind CSS, along with other technologies to facilitate the integration of an Instagram feed and email communication with the organization.
 
-### Data Analysis in Economic and Social Statistics
-- Utilized Python and SQL to analyze patterns in economic and social statistics.
-
 ### E-commerce Platform for Food Sales
 - Developed an e-commerce platform using React.js, Python, and SQL.
-
-### 2048 Game Example for UTEC
-- Created an example of the 2048 game using C++ console.
 
 ---
 
