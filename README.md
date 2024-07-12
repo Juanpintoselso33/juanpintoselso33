@@ -10,7 +10,7 @@ I'm a Full Stack Developer specialized in Python and databases, with a focus on 
 ## 🛠️ Technologies & Tools
 
 - **Languages:** Python, JavaScript, SQL, C++, C#, 
-- **Frameworks:** React, Flask, Pandas, Node.js, Django, Vue.Js, Numpy
+- **Frameworks:** React, Typescript, Flask, Pandas, Node.js, Django, Vue.Js, Numpy
 - **Databases:** SQLAlchemy, PostgresSQL, RESTApi,
 - **Other:** Git, Unity, STATA
 
