@@ -1,11 +1,11 @@
 <!-- ===== HEADER BANNER ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Juan%20Ignacio%20Pintos%20Elso&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%26%20Data%20Engineer&descAlignY=55&descSize=20" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Juan%20Ignacio%20Pintos%20Elso&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Software%20Developer%20%26%20Data%20Engineer&amp;descAlignY=55&amp;descSize=20" width="100%" alt="Header Banner"/>
 </div>
 
 <!-- ===== ANIMATED TYPING SVG ===== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E57F7&center=true&vCenter=true&multiline=false&width=600&lines=Software+Developer+%40+Samu+Legal+Tech;AWS+CDK+%7C+TypeScript+%7C+Python;Data+Engineer+%7C+Vector+Search+%7C+ETL;Building+AI-powered+legal+infrastructure" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=6E57F7&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=620&amp;lines=Software+Developer+%40+Samu+Legal+Tech;AWS+CDK+%7C+TypeScript+%7C+Python;Data+Engineer+%7C+Vector+Search+%7C+ETL;Building+AI-powered+legal+infrastructure" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -13,19 +13,146 @@
 <!-- ===== ABOUT ME ===== -->
 ## :man_technologist: About Me
 
-I'm a Software Developer and Data Engineer based in **Buenos Aires, Argentina**, originally from **Uruguay**. My background blends **applied economics, political science, and software engineering** -- a combination that lets me build data-intensive products with a sharp eye for what the numbers actually mean. I hold a Master's in Applied Economics from UBA (specialization grade 10/10) and a B.A. in Political Science from UDELAR with a published thesis.
+I'm a **Software Developer and Data Engineer** based in **Buenos Aires, Argentina**, originally from **Uruguay**. My background blends **applied economics, political science, and software engineering** — a combination that lets me build data-intensive products with a sharp eye for what the numbers actually mean.
 
-Right now I'm building cloud infrastructure and AI-powered document processing for a US law firm. Before that, I've shipped everything from real-time electoral dashboards to user segmentation pipelines handling 100K+ profiles. I'm most at home at the intersection of backend systems, data pipelines, and cloud architecture.
+I hold a **Master's in Applied Economics** from UBA (specialization grade 10/10) and a **B.A. in Political Science** from UDELAR with a [published thesis](https://colibri.udelar.edu.uy/jspui/handle/20.500.12008/43989). Right now I'm building cloud infrastructure and AI-powered document processing for a US law firm. Before that, I've shipped everything from real-time electoral dashboards to user segmentation pipelines handling 100K+ profiles.
+
+I'm most at home at the intersection of **backend systems, data pipelines, and cloud architecture**.
 
 <br/>
 
 <!-- ===== CURRENTLY WORKING ON ===== -->
 ## :rocket: What I'm Working On
 
-- **Software Developer @ [Samu Legal Technology](https://www.samulaw.com)** (2025 -- Present)
-  - Building a legal document processing platform for Joseph Ott Law (Minnesota, USA)
-  - Stack: AWS CDK, TypeScript, Lambda, CloudFormation, Pinecone vector search, PostgreSQL Aurora, Cognito
+- **Software Developer @ [Samu Legal Technology](https://www.samulaw.com)** — Building a legal document processing platform with AWS CDK, Pinecone vector search, and PostgreSQL Aurora
 - **Master's in Applied Economics** @ Universidad de Buenos Aires (2024 -- Present)
+
+<br/>
+
+<!-- ===== EXPERIENCE ===== -->
+## :briefcase: Experience
+
+---
+
+### :cloud: Samu Legal Technology · Software Developer
+**2025 -- Present · Remote**
+
+Building cloud infrastructure for Joseph Ott Law (Minnesota, USA) — enabling intelligent search across legal documents previously unstructured and unsearchable.
+
+- **Architected** serverless infrastructure using AWS CDK (TypeScript), Lambda, and CloudFormation for fully automated deployments
+- **Designed** OCR-powered document ingestion pipeline with semantic chunking (Mistral OCR) for legal case materials
+- **Built** vector search with Pinecone embeddings + PostgreSQL Aurora, enabling semantic queries across thousands of documents
+- **Delivered** authenticated frontend with Refine + AWS Cognito for secure legal team access
+
+`AWS CDK` `TypeScript` `Lambda` `CloudFormation` `Pinecone` `PostgreSQL Aurora` `Refine` `Cognito`
+
+---
+
+### :bar_chart: Peliplat · Data Analyst
+**2025 · Remote**
+
+User intelligence and growth analytics at LATAM's leading film community platform (100K+ active users).
+
+- **Designed** ETL pipeline integrating behavioral data with user database, scaling segmentation capacity from 10K to hundreds of thousands of records
+- **Segmented** 100K+ users via clustering algorithms, identifying a 4K high-retention cohort targeted for Google Ads campaigns
+- **Built** executive dashboards providing real-time visibility into conversion and retention KPIs aligned to OKRs
+
+`Python` `SQL` `ETL` `Clustering` `BigQuery` `Google Ads` `Looker Studio`
+
+---
+
+### :iphone: Lufindo · Software Developer
+**2024 · Remote**
+
+Full-stack developer at an EdFinTech startup building a gamified financial education platform for mobile and web.
+
+- **Built** cross-platform mobile app (iOS/Android/Web) with React Native, Expo SDK 54, TypeScript, Zustand, and React Query — ~95% feature completion
+- **Developed** Next.js 15 admin panel with shadcn/ui + Firebase Admin SDK for managing educational content
+- **Integrated** WhatsApp educational bot powered by Claude AI via Firebase Cloud Functions v2, supporting quizzes, rankings, and AI responses
+
+`React Native` `Expo` `TypeScript` `Next.js` `shadcn/ui` `Firebase` `Claude AI`
+
+---
+
+### :newspaper: El Observador · Data Analyst
+**2024 · Freelance · Remote**
+
+Real-time electoral data processing for Uruguay's leading news outlet during the 2024 national elections.
+
+- **Processed** massive electoral datasets in real-time using Python, JSON processing, and web scraping
+- **Automated** data ingestion from Uruguay's Electoral Court API for live results tracking
+- **Built** voting trend visualizations for live news coverage on TV and digital platforms
+
+`Python` `Web Scraping` `REST APIs` `Data Visualization`
+
+---
+
+### :classical_building: Parliament of Uruguay · Legislative Advisor
+**2015 -- 2020 · Montevideo**
+
+Legislative advisor at the Legislative Palace and Montevideo Departmental Board.
+
+- **Prepared** technical reports on legislative bills, public policy proposals, and institutional regulations
+- **Provided** quantitative research support for evidence-based policy decisions
+- Foundation of my analytical career: rigorous structured analysis, communicating complexity to non-technical stakeholders
+
+<br/>
+
+<!-- ===== FEATURED PROJECTS ===== -->
+## :star2: Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Legal Doc Processing (Current)</h3>
+        <p align="center">
+          Cloud-native legal document platform using RAG architecture. AWS CDK infrastructure, Pinecone vector search, Lambda functions, and PostgreSQL Aurora.
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS"/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript"/>
+          <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" alt="Pinecone"/>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">User Segmentation ETL</h3>
+        <p align="center">
+          End-to-end ETL pipeline for segmenting 100K+ users at Peliplat. BigQuery, clustering algorithms, GA4 integration, and automated Looker Studio dashboards.
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&amp;logo=googlebigquery&amp;logoColor=white" alt="BigQuery"/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python"/>
+          <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&amp;logo=looker&amp;logoColor=white" alt="Looker"/>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">AI WhatsApp Bot</h3>
+        <p align="center">
+          Claude AI-powered WhatsApp chatbot for real estate platform Lufindo. Built with Node.js and integrated into a React Native + Next.js mobile app.
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React Native"/>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js"/>
+          <img src="https://img.shields.io/badge/Claude_AI-6E57F7?style=for-the-badge" alt="Claude AI"/>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Electoral Data Platform</h3>
+        <p align="center">
+          Real-time electoral results dashboard built during Uruguay's national elections. Python web scraping, data processing pipelines, and interactive visualizations.
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python"/>
+          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit"/>
+          <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas"/>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
@@ -34,19 +161,19 @@ Right now I'm building cloud infrastructure and AI-powered document processing f
 
 <div align="center">
 
-#### :cloud: Cloud & Infrastructure
-<img src="https://skillicons.dev/icons?i=aws,typescript,python" alt="Cloud &amp; Infra"/>
+#### :cloud: Cloud &amp; Infrastructure
+<img src="https://skillicons.dev/icons?i=aws,typescript,python" alt="Cloud and Infra"/>
 
-#### :art: Frontend & Mobile
+#### :art: Frontend &amp; Mobile
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend"/>
 
 #### :floppy_disk: Databases
 <img src="https://skillicons.dev/icons?i=postgresql,mongodb,firebase" alt="Databases"/>
 
-#### :bar_chart: Data & ML
-<img src="https://skillicons.dev/icons?i=python,r,tensorflow" alt="Data &amp; ML"/>
+#### :bar_chart: Data &amp; ML
+<img src="https://skillicons.dev/icons?i=python,r,tensorflow" alt="Data and ML"/>
 
-#### :wrench: Tools & DevOps
+#### :wrench: Tools &amp; DevOps
 <img src="https://skillicons.dev/icons?i=git,docker,github,vscode,linux" alt="Tools"/>
 
 </div>
@@ -63,8 +190,8 @@ Right now I'm building cloud infrastructure and AI-powered document processing f
 | **Data** | BigQuery, Pandas, NumPy, scikit-learn, Pinecone, ETL pipelines |
 | **Databases** | PostgreSQL Aurora, MongoDB, Firebase, SQLite |
 | **Visualization** | Looker Studio, Streamlit, Matplotlib, Seaborn |
-| **AI/NLP** | OpenAI API, Claude API, vector embeddings, RAG architecture |
-| **DevOps** | Docker, Git, GitHub Actions, latexmk |
+| **AI/NLP** | OpenAI API, Claude API, Mistral OCR, vector embeddings, RAG architecture |
+| **DevOps** | Docker, Git, GitHub Actions |
 
 <br/>
 
@@ -75,89 +202,19 @@ Right now I'm building cloud infrastructure and AI-powered document processing f
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Juanpintoselso33&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Juanpintoselso33&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" alt="GitHub Stats" height="180"/>
       </td>
       <td>
-        <img src="https://streak-stats.demolab.com?user=Juanpintoselso33&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+        <img src="https://streak-stats.demolab.com?user=Juanpintoselso33&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" height="180"/>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanpintoselso33&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanpintoselso33&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages" height="180"/>
       </td>
     </tr>
   </table>
 </div>
-
-<br/>
-
-<!-- ===== FEATURED PROJECTS ===== -->
-## :star2: Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Electoral Data Platform</h3>
-        <p align="center">
-          Real-time electoral results dashboard built during Uruguay's national elections. Python web scraping, data processing pipelines, and interactive Streamlit visualizations.
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-          <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">User Segmentation ETL</h3>
-        <p align="center">
-          End-to-end ETL pipeline for segmenting 100K+ users at Peliplat. BigQuery, clustering algorithms, GA4 integration, and automated Looker Studio dashboards.
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery"/>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-          <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker"/>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">AI WhatsApp Bot</h3>
-        <p align="center">
-          Claude AI-powered WhatsApp chatbot for real estate platform Lufindo. Built with Node.js and integrated into a React Native + Next.js mobile app.
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-          <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-          <img src="https://img.shields.io/badge/Claude_AI-6E57F7?style=for-the-badge" alt="Claude AI"/>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Legal Doc Processing (Current)</h3>
-        <p align="center">
-          Cloud-native legal document platform using RAG architecture. AWS CDK infrastructure, Pinecone vector search, Lambda functions, and PostgreSQL Aurora.
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-          <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" alt="Pinecone"/>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<!-- ===== EXPERIENCE TIMELINE ===== -->
-## :briefcase: Career Path
-
-```
-2025 -- Present  Software Developer    @ Samu Legal Technology   (AWS CDK, TypeScript, Pinecone)
-2025             Data Analyst           @ Peliplat                (BigQuery, ETL, User Segmentation)
-2024             Software Developer     @ Lufindo                 (React Native, Next.js, Claude AI)
-2024             Data Analyst           @ El Observador           (Electoral Data, Python, Scraping)
-```
 
 <br/>
 
@@ -166,18 +223,18 @@ Right now I'm building cloud infrastructure and AI-powered document processing f
 
 <div align="center">
   <a href="https://linkedin.com/in/juanpintoselso">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:juanpintoselso33@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;
   <a href="https://github.com/Juanpintoselso33">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/Juanpintoselso33?style=for-the-badge&logo=github&label=Followers&color=181717" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/followers/Juanpintoselso33?style=for-the-badge&amp;logo=github&amp;label=Followers&amp;color=181717" alt="GitHub Followers"/>
 </div>
 
 <br/>
@@ -193,12 +250,12 @@ Right now I'm building cloud infrastructure and AI-powered document processing f
 
 <!-- ===== PROFILE VIEWS ===== -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Juanpintoselso33&style=for-the-badge&color=6E57F7" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Juanpintoselso33&amp;style=for-the-badge&amp;color=6E57F7" alt="Profile Views"/>
 </div>
 
 <br/>
 
 <!-- ===== FOOTER BANNER ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Footer Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer" width="100%" alt="Footer Banner"/>
 </div>
