@@ -1,6 +1,17 @@
 <!-- ===== HEADER BANNER ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Juan%20Ignacio%20Pintos%20Elso&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Software%20Developer%20%26%20Data%20Engineer&amp;descAlignY=55&amp;descSize=20" width="100%" alt="Header Banner"/>
+  <svg width="100%" height="180" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#6E57F7;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#a78bfa;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="180" fill="url(#grad)" rx="0"/>
+    <text x="50%" y="80" font-family="Arial,sans-serif" font-size="36" font-weight="bold" fill="white" text-anchor="middle">Juan Ignacio Pintos Elso</text>
+    <text x="50%" y="120" font-family="Arial,sans-serif" font-size="18" fill="rgba(255,255,255,0.9)" text-anchor="middle">Software Developer &amp; Data Engineer</text>
+    <text x="50%" y="150" font-family="Arial,sans-serif" font-size="14" fill="rgba(255,255,255,0.75)" text-anchor="middle">AWS CDK · TypeScript · Python · Buenos Aires, Argentina</text>
+  </svg>
 </div>
 
 <!-- ===== ANIMATED TYPING SVG ===== -->
@@ -257,5 +268,14 @@ Legislative advisor at the Legislative Palace and Montevideo Departmental Board.
 
 <!-- ===== FOOTER BANNER ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer" width="100%" alt="Footer Banner"/>
+  <svg width="100%" height="100" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#a78bfa;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#6E57F7;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="100" fill="url(#footerGrad)" rx="0"/>
+    <text x="50%" y="58" font-family="Arial,sans-serif" font-size="14" fill="rgba(255,255,255,0.85)" text-anchor="middle">Open to remote roles · full-stack · data engineering · ML engineering</text>
+  </svg>
 </div>
