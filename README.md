@@ -18,7 +18,7 @@ I'm most at home at the intersection of **backend systems, data pipelines, and c
 
 - **Software Developer @ [Samu Legal Technology](https://www.samulaw.com)** — Serverless legal document platform: AWS CDK, Lambda, Pinecone vector search, PostgreSQL Aurora, Refine + Cognito
 - **Software Developer @ Lufindo** — Gamified financial education platform: React Native + Expo (iOS/Android/Web), Next.js 15 admin panel, Claude AI WhatsApp bot via Firebase Cloud Functions
-- **Master's in Applied Economics** @ Universidad de Buenos Aires (2024 -- Present)
+- **Master's Thesis in Applied Economics (UBA)** — Causal impact of Uruguay's SUCIVE vehicle tax coordination system using Difference-in-Differences + Event Study across 19 departments (1990–2023). Specialization thesis approved with 10/10.
 
 <br/>
 
