@@ -1,15 +1,16 @@
 # Juan Ignacio Pintos Elso
 
-**Software Developer & Data Engineer** · Buenos Aires, Argentina
+**Software Developer & Data Engineer** · Buenos Aires, Argentina · Open to remote roles
+
+---
 
 <!-- ===== ABOUT ME ===== -->
 ## :man_technologist: About Me
 
-I'm a **Software Developer and Data Engineer** based in **Buenos Aires, Argentina**, originally from **Uruguay**. My background blends **applied economics, political science, and software engineering** — a combination that lets me build data-intensive products with a sharp eye for what the numbers actually mean.
-
-I hold a **Specialization in Applied Economics** from UBA (grade 10/10) and am currently completing my **Master's thesis** on fiscal coordination in Uruguay. I also hold a **B.A. in Political Science** from UDELAR with a [published thesis](https://colibri.udelar.edu.uy/jspui/handle/20.500.12008/43989). Right now I'm building cloud infrastructure and AI-powered document processing for a US law firm. Before that, I've shipped everything from real-time electoral dashboards to user segmentation pipelines handling 100K+ profiles.
-
-I'm most at home at the intersection of **backend systems, data pipelines, and cloud architecture**.
+- Building **serverless cloud infrastructure and AI-powered document processing** for a US law firm (AWS CDK, TypeScript, Pinecone, PostgreSQL Aurora)
+- Background in **applied economics + political science** — I build data-intensive products with a sharp eye for what the numbers actually mean
+- Specialization in Applied Economics, UBA (10/10) · B.A. Political Science, UDELAR ([published thesis](https://colibri.udelar.edu.uy/jspui/handle/20.500.12008/43989)) · Master's thesis in progress
+- Most at home at the intersection of **backend systems, data pipelines, and cloud architecture**
 
 <br/>
 
@@ -18,7 +19,7 @@ I'm most at home at the intersection of **backend systems, data pipelines, and c
 
 - **Software Developer @ [Samu Legal Technology](https://www.samulaw.com)** — Serverless legal document platform: AWS CDK, Lambda, Pinecone vector search, PostgreSQL Aurora, Refine + Cognito
 - **Software Developer @ Lufindo** — Gamified financial education platform: React Native + Expo (iOS/Android/Web), Next.js 15 admin panel, Claude AI WhatsApp bot via Firebase Cloud Functions
-- **Master's Thesis in Applied Economics (UBA)** — Causal impact of Uruguay's SUCIVE vehicle tax coordination system using Difference-in-Differences + Event Study across 19 departments (1990–2023). Specialization thesis approved with 10/10.
+- **Master's Thesis (UBA)** — Causal impact of Uruguay's SUCIVE vehicle tax coordination using DiD + Event Study across 19 departments (1990–2023)
 
 <br/>
 
@@ -46,9 +47,9 @@ Building cloud infrastructure for Joseph Ott Law (Minnesota, USA) — enabling i
 
 User intelligence and growth analytics at LATAM's leading film community platform (100K+ active users).
 
-- **Designed** ETL pipeline integrating behavioral data with user database, scaling segmentation capacity from 10K to hundreds of thousands of records
-- **Segmented** 100K+ users via clustering algorithms, identifying a 4K high-retention cohort targeted for Google Ads campaigns
-- **Built** executive dashboards providing real-time visibility into conversion and retention KPIs aligned to OKRs
+- **Designed** ETL pipeline scaling segmentation capacity from 10K to hundreds of thousands of records
+- **Segmented** 100K+ users via clustering algorithms, identifying a 4K high-retention cohort for Google Ads
+- **Built** executive dashboards with real-time visibility into conversion and retention KPIs
 
 `Python` `SQL` `ETL` `Clustering` `BigQuery` `Google Ads` `Looker Studio`
 
@@ -68,26 +69,19 @@ Full-stack developer at an EdFinTech startup building a gamified financial educa
 ---
 
 ### :newspaper: El Observador · Data Analyst
-**2024 · Freelance · Remote**
+**2024 · Freelance**
 
 Real-time electoral data processing for Uruguay's leading news outlet during the 2024 national elections.
 
-- **Processed** massive electoral datasets in real-time using Python, JSON processing, and web scraping
+- **Processed** electoral datasets in real-time using Python, JSON processing, and web scraping
 - **Automated** data ingestion from Uruguay's Electoral Court API for live results tracking
-- **Built** voting trend visualizations for live news coverage on TV and digital platforms
+- **Built** voting trend visualizations for live TV and digital news coverage
 
 `Python` `Web Scraping` `REST APIs` `Data Visualization`
 
 ---
 
-### :classical_building: Parliament of Uruguay · Legislative Advisor
-**2015 -- 2020 · Montevideo**
-
-Legislative advisor at the Legislative Palace and Montevideo Departmental Board.
-
-- **Prepared** technical reports on legislative bills, public policy proposals, and institutional regulations
-- **Provided** quantitative research support for evidence-based policy decisions
-- Foundation of my analytical career: rigorous structured analysis, communicating complexity to non-technical stakeholders
+→ Full experience on [LinkedIn](https://linkedin.com/in/juanpintoselso)
 
 <br/>
 
@@ -152,38 +146,15 @@ Legislative advisor at the Legislative Palace and Montevideo Departmental Board.
 <!-- ===== TECH STACK ===== -->
 ## :hammer_and_wrench: Tech Stack
 
-<div align="center">
-
-#### :cloud: Cloud &amp; Infrastructure
-<img src="https://skillicons.dev/icons?i=aws,typescript,python" alt="Cloud and Infra"/>
-
-#### :art: Frontend &amp; Mobile
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend"/>
-
-#### :floppy_disk: Databases
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,firebase" alt="Databases"/>
-
-#### :bar_chart: Data &amp; ML
-<img src="https://skillicons.dev/icons?i=python,r,tensorflow" alt="Data and ML"/>
-
-#### :wrench: Tools &amp; DevOps
-<img src="https://skillicons.dev/icons?i=git,docker,github,vscode,linux" alt="Tools"/>
-
-</div>
-
-<br/>
-
-**Detailed breakdown:**
-
 | Domain | Technologies |
 |--------|-------------|
 | **Cloud** | AWS CDK, Lambda, CloudFormation, S3, Cognito, API Gateway |
-| **Languages** | TypeScript, Python, SQL, R, JavaScript |
+| **Languages** | TypeScript, Python, SQL, JavaScript |
 | **Frontend** | React, Next.js, React Native, Expo, Refine |
 | **Data** | BigQuery, Pandas, NumPy, scikit-learn, Pinecone, ETL pipelines |
-| **Databases** | PostgreSQL Aurora, MongoDB, Firebase, SQLite |
+| **Databases** | PostgreSQL Aurora, Firebase, SQLite |
 | **Visualization** | Looker Studio, Streamlit, Matplotlib, Seaborn |
-| **AI/NLP** | OpenAI API, Claude API, Mistral OCR, vector embeddings, RAG architecture |
+| **AI/NLP** | Claude API, OpenAI API, Mistral OCR, vector embeddings, RAG |
 | **DevOps** | Docker, Git, GitHub Actions |
 
 <br/>
@@ -223,41 +194,11 @@ Legislative advisor at the Legislative Palace and Montevideo Departmental Board.
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;
-  <a href="https://github.com/Juanpintoselso33">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;
   <img src="https://img.shields.io/github/followers/Juanpintoselso33?style=for-the-badge&amp;logo=github&amp;label=Followers&amp;color=181717" alt="GitHub Followers"/>
 </div>
 
 <br/>
 
-<!-- ===== FUN FACTS ===== -->
 <div align="center">
-  <em>
-    :guitar: Guitar player &nbsp;|&nbsp; :uruguay: Proud Uruguayan (Olimareño/Fernandino) &nbsp;|&nbsp; :soccer: Club Nacional de Football &nbsp;|&nbsp; :headphones: Pink Floyd &nbsp;|&nbsp; :earth_americas: Grand strategy games
-  </em>
-</div>
-
-<br/>
-
-<!-- ===== PROFILE VIEWS ===== -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Juanpintoselso33&amp;style=for-the-badge&amp;color=6E57F7" alt="Profile Views"/>
-</div>
-
-<br/>
-
-<!-- ===== FOOTER BANNER ===== -->
-<div align="center">
-  <svg width="100%" height="100" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#a78bfa;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#6E57F7;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <rect width="100%" height="100" fill="url(#footerGrad)" rx="0"/>
-    <text x="50%" y="58" font-family="Arial,sans-serif" font-size="14" fill="rgba(255,255,255,0.85)" text-anchor="middle">Open to remote roles · full-stack · data engineering · ML engineering</text>
-  </svg>
+  <em>:guitar: Guitar · :uruguay: Olimareño/Fernandino · :soccer: Club Nacional · :headphones: Pink Floyd · :joystick: Grand strategy games</em>
 </div>
