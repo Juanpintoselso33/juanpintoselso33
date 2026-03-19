@@ -1,25 +1,6 @@
-<!-- ===== HEADER BANNER ===== -->
-<div align="center">
-  <svg width="100%" height="180" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#6E57F7;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#a78bfa;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <rect width="100%" height="180" fill="url(#grad)" rx="0"/>
-    <text x="50%" y="80" font-family="Arial,sans-serif" font-size="36" font-weight="bold" fill="white" text-anchor="middle">Juan Ignacio Pintos Elso</text>
-    <text x="50%" y="120" font-family="Arial,sans-serif" font-size="18" fill="rgba(255,255,255,0.9)" text-anchor="middle">Software Developer &amp; Data Engineer</text>
-    <text x="50%" y="150" font-family="Arial,sans-serif" font-size="14" fill="rgba(255,255,255,0.75)" text-anchor="middle">AWS CDK · TypeScript · Python · Buenos Aires, Argentina</text>
-  </svg>
-</div>
+# Juan Ignacio Pintos Elso
 
-<!-- ===== ANIMATED TYPING SVG ===== -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=6E57F7&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=620&amp;lines=Software+Developer+%40+Samu+Legal+Tech;AWS+CDK+%7C+TypeScript+%7C+Python;Data+Engineer+%7C+Vector+Search+%7C+ETL;Building+AI-powered+legal+infrastructure" alt="Typing SVG"/>
-</div>
-
-<br/>
+**Software Developer & Data Engineer** · Buenos Aires, Argentina
 
 <!-- ===== ABOUT ME ===== -->
 ## :man_technologist: About Me
