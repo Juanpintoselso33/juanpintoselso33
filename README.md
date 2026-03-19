@@ -7,7 +7,7 @@
 
 I'm a **Software Developer and Data Engineer** based in **Buenos Aires, Argentina**, originally from **Uruguay**. My background blends **applied economics, political science, and software engineering** — a combination that lets me build data-intensive products with a sharp eye for what the numbers actually mean.
 
-I hold a **Master's in Applied Economics** from UBA (specialization grade 10/10) and a **B.A. in Political Science** from UDELAR with a [published thesis](https://colibri.udelar.edu.uy/jspui/handle/20.500.12008/43989). Right now I'm building cloud infrastructure and AI-powered document processing for a US law firm. Before that, I've shipped everything from real-time electoral dashboards to user segmentation pipelines handling 100K+ profiles.
+I hold a **Specialization in Applied Economics** from UBA (grade 10/10) and am currently completing my **Master's thesis** on fiscal coordination in Uruguay. I also hold a **B.A. in Political Science** from UDELAR with a [published thesis](https://colibri.udelar.edu.uy/jspui/handle/20.500.12008/43989). Right now I'm building cloud infrastructure and AI-powered document processing for a US law firm. Before that, I've shipped everything from real-time electoral dashboards to user segmentation pipelines handling 100K+ profiles.
 
 I'm most at home at the intersection of **backend systems, data pipelines, and cloud architecture**.
 
