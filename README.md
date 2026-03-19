@@ -16,7 +16,8 @@ I'm most at home at the intersection of **backend systems, data pipelines, and c
 <!-- ===== CURRENTLY WORKING ON ===== -->
 ## :rocket: What I'm Working On
 
-- **Software Developer @ [Samu Legal Technology](https://www.samulaw.com)** — Building a legal document processing platform with AWS CDK, Pinecone vector search, and PostgreSQL Aurora
+- **Software Developer @ [Samu Legal Technology](https://www.samulaw.com)** — Serverless legal document platform: AWS CDK, Lambda, Pinecone vector search, PostgreSQL Aurora, Refine + Cognito
+- **Software Developer @ Lufindo** — Gamified financial education platform: React Native + Expo (iOS/Android/Web), Next.js 15 admin panel, Claude AI WhatsApp bot via Firebase Cloud Functions
 - **Master's in Applied Economics** @ Universidad de Buenos Aires (2024 -- Present)
 
 <br/>
@@ -97,33 +98,20 @@ Legislative advisor at the Legislative Palace and Montevideo Departmental Board.
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">Legal Doc Processing (Current)</h3>
+        <h3 align="center">Legal Doc Processing</h3>
         <p align="center">
-          Cloud-native legal document platform using RAG architecture. AWS CDK infrastructure, Pinecone vector search, Lambda functions, and PostgreSQL Aurora.
+          Serverless legal document platform for a US law firm. Mistral OCR ingestion pipeline, Pinecone semantic search, PostgreSQL Aurora, Refine + Cognito auth. AWS CDK infrastructure as code — fully automated deployments.
         </p>
         <p align="center">
-          <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS"/>
+          <img src="https://img.shields.io/badge/AWS_CDK-232F3E?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS CDK"/>
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript"/>
           <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" alt="Pinecone"/>
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">User Segmentation ETL</h3>
+        <h3 align="center">Lufindo — EdFinTech Platform</h3>
         <p align="center">
-          End-to-end ETL pipeline for segmenting 100K+ users at Peliplat. BigQuery, clustering algorithms, GA4 integration, and automated Looker Studio dashboards.
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&amp;logo=googlebigquery&amp;logoColor=white" alt="BigQuery"/>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python"/>
-          <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&amp;logo=looker&amp;logoColor=white" alt="Looker"/>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">AI WhatsApp Bot</h3>
-        <p align="center">
-          Claude AI-powered WhatsApp chatbot for real estate platform Lufindo. Built with Node.js and integrated into a React Native + Next.js mobile app.
+          Gamified financial education monorepo: React Native + Expo app (iOS/Android/Web), Next.js 15 admin panel with shadcn/ui, and a Claude AI WhatsApp bot with quizzes, rankings &amp; AI responses via Firebase Cloud Functions v2.
         </p>
         <p align="center">
           <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React Native"/>
@@ -131,15 +119,28 @@ Legislative advisor at the Legislative Palace and Montevideo Departmental Board.
           <img src="https://img.shields.io/badge/Claude_AI-6E57F7?style=for-the-badge" alt="Claude AI"/>
         </p>
       </td>
+    </tr>
+    <tr>
       <td width="50%">
-        <h3 align="center">Electoral Data Platform</h3>
+        <h3 align="center"><a href="https://github.com/Juanpintoselso33/ecological-inference-uruguay-2024">Bayesian Electoral Inference</a></h3>
         <p align="center">
-          Real-time electoral results dashboard built during Uruguay's national elections. Python web scraping, data processing pipelines, and interactive visualizations.
+          Bayesian ecological inference of vote transfers across Uruguay's 2024 presidential elections — King's EI method with PyMC v5, 7,271 circuits, departmental stratification, sensitivity analysis, and 2019–2024 comparison.
         </p>
         <p align="center">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python"/>
-          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit"/>
-          <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas"/>
+          <img src="https://img.shields.io/badge/PyMC-F7931E?style=for-the-badge" alt="PyMC"/>
+          <img src="https://img.shields.io/badge/Bayesian-grey?style=for-the-badge" alt="Bayesian"/>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center"><a href="https://github.com/Juanpintoselso33/uruguay-electoral-map">Uruguay Electoral Map</a></h3>
+        <p align="center">
+          Interactive Vue.js map visualizing 2024 internal election results across Montevideo at neighborhood level. Official Electoral Court data, color-coded districts, filtering by political list.
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=white" alt="Vue.js"/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript"/>
+          <img src="https://img.shields.io/badge/GeoJSON-white?style=for-the-badge" alt="GeoJSON"/>
         </p>
       </td>
     </tr>
