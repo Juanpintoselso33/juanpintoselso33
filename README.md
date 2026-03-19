@@ -35,7 +35,7 @@ Right now I'm building cloud infrastructure and AI-powered document processing f
 <div align="center">
 
 #### :cloud: Cloud & Infrastructure
-<img src="https://skillicons.dev/icons?i=aws,typescript,python" alt="Cloud & Infra"/>
+<img src="https://skillicons.dev/icons?i=aws,typescript,python" alt="Cloud &amp; Infra"/>
 
 #### :art: Frontend & Mobile
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend"/>
@@ -44,7 +44,7 @@ Right now I'm building cloud infrastructure and AI-powered document processing f
 <img src="https://skillicons.dev/icons?i=postgresql,mongodb,firebase" alt="Databases"/>
 
 #### :bar_chart: Data & ML
-<img src="https://skillicons.dev/icons?i=python,r,tensorflow" alt="Data & ML"/>
+<img src="https://skillicons.dev/icons?i=python,r,tensorflow" alt="Data &amp; ML"/>
 
 #### :wrench: Tools & DevOps
 <img src="https://skillicons.dev/icons?i=git,docker,github,vscode,linux" alt="Tools"/>
